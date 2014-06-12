@@ -1,0 +1,34 @@
+{
+  "name": "slush-ngmodules",
+  "version": "0.0.1",
+  "description": "Modular AngularJS module development",
+  "main": "slushfile.coffee",
+  "scripts": {
+    "test": "null"
+  },
+  "keywords": [
+    "slushgenerator"
+  ],
+  "author": "Raymond Tijhaar",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.6.1",
+    "yargs": "~1.2.1",
+    "through2": "~0.4.1",
+    "gulp-template": "~0.1.1",
+    "gulp-rename": "~1.2.0",
+    "gulp-conflict": "~0.1.1",
+    "gulp-debug": "~0.3.0",
+    "gulp-if": "~1.0.0",
+    "gulp-prompt": "~0.1.1"
+  },
+  "devDependencies": {
+    "underscore.string": "~2.3.3",
+    "lodash": "~2.4.1",
+    "glob": "~3.2.9",
+    "path": "~0.4.9",
+    "inquirer": "~0.4.1"
+  }
+}
